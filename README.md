@@ -28,7 +28,7 @@ An intelligent web application that evaluates a candidate's resume against a job
 
 **Libraries**
 
-* PyMuPDF (or `pypdf`) – PDF text extraction
+* PyPDF – PDF text extraction
 * RapidFuzz – Text similarity and matching
 
 **Version Control**
@@ -117,4 +117,4 @@ http://127.0.0.1:5000
 
 **Maham Faiz Malik**
 
-GitHub: https://github.com/mahamfaizmalik1023
+GitHub: https://github.com/mahamfaizmalik1023-commits
